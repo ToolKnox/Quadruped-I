@@ -193,3 +193,7 @@ which object/colour it tracks and what model (if any) it loads.
 
 Built by [ToolKnox](https://github.com/ToolKnox). Full hardware project,
 print files, and assembly walkthrough on Printables.
+
+## Build resources
+
+- [Bill of Material](https://toolknox.github.io/Quadruped-I/bill-of-material.html)

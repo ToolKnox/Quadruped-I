@@ -113,6 +113,10 @@ sudo i2cdetect -y 1       # confirm the servo driver shows up
 
 ---
 
+## Bill of Material
+
+[Bill of Material (PDF)](BOM.pdf): every part to buy, with shop links.
+
 ## Run
 
 ### 1. Drive locally with a keyboard (Pi-only)
